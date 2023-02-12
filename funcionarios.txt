@@ -1,0 +1,37 @@
+Funcionários:
+########################
+Nome: Gabriel Raposo
+Matrícula: 123
+CPF: 5464564564
+Email: gabriel@gmail.com
+Nível: 6
+Função: Jovem Aprendiz
+Status: 1
+########################
+########################
+Nome: Carlos
+Matrícula: 124
+CPF: 0769507554
+Email: carlos@gmail.com
+Nível: 8
+Função: Técnico
+Status: 1
+########################
+########################
+Nome: Cássio
+Matrícula: 75645
+CPF: 234929041
+Email: cassio@gmail.com
+Nível: 9
+Função: Gerente
+Status: 1
+########################
+########################
+Nome: DAFKNHAIKJFG
+Matrícula: DKSNGDSKGVN
+CPF: DSGKSNVKIS
+Email: VGNSJKDNJVS
+Nível: NVJSBVJSK
+Função: VJSBDJVGS
+Status: VJBSDJF
+########################

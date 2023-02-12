@@ -1,0 +1,18 @@
+Produtos:
+########################
+Id: 3
+Nome: Carro
+Tipo: Automovel
+Fornecedor: Fiat
+Preço: 67000
+Disponiblidade: 1
+########################
+########################
+Id: 4
+Nome: Plateleira
+Tipo: Móvel
+Fornecedor: whist
+Preço: 123
+Disponiblidade: 1
+########################
+########################

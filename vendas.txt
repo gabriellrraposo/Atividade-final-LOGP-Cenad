@@ -1,0 +1,15 @@
+Vendas:
+########################
+Id: 34234
+Produto: Geladeira
+Comprador: 2342
+Data: 23/04/21
+Desconto: 25%
+########################
+########################
+Id: 2345256
+Produto: 4211
+Comprador: 9888
+Data: 21
+Desconto: 
+########################
